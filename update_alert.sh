@@ -5,7 +5,7 @@ message="Please reboot your computer."
 title="Reboot Required"
 
 # Set the path to the image file for the icon
-icon_path="/Users/Shared/XAG_XLogomark_Digital_White.png"
+icon_path="/Users/Shared/XAG_XLogomark_Digital_XAGGreen.png"
 
 # Display the notification
 osascript -e "display notification \"$message\" with title \"$title\""
